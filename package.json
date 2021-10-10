@@ -1,0 +1,25 @@
+{
+  "name": "knoxhive-contracts",
+  "version": "1.0.0",
+  "description": "Solidity smart contracts for knoxhive",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Solidity",
+    "Ethereum",
+    "knoxhive",
+    "Smart",
+    "Contracts"
+  ],
+  "author": "Shivam Singh (https://github.com/sks71093)",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.2",
+    "@truffle/hdwallet-provider": "^1.5.1"
+  }
+}
